@@ -1,0 +1,10 @@
+body {
+    background-color: blueviolet;
+}
+
+#clave {
+    color: cyan;
+    margin: 2px;
+    padding: 3px;
+    font-size: 2cm;
+}
